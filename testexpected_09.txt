@@ -1,0 +1,7 @@
+tile_0
+weaktile_1 1
+tile_0 weaktile_1
+panda_0 sleepy tile_0
+weaktile_1 1
+panda_0 sleepy tile_0
+weaktile_1 0

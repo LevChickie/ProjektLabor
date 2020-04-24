@@ -1,0 +1,6 @@
+addtile normal
+addtile normal
+addtile cupboard tile_1
+bindneighbours tile_0 cupboard_2
+addorangutan tile_0
+moveorangutan orangutan_0 cupboard_2

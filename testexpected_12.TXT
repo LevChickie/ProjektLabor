@@ -1,0 +1,7 @@
+tile_0
+tile_1
+tile_0 tile_1
+panda_0 sleepy tile_0
+armchair_0 tile_1
+react panda_0 sleepy tile_1
+panda_0 sleepy tile_1

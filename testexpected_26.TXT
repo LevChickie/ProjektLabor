@@ -1,0 +1,6 @@
+tile_0
+tile_1
+cupboard_2 tile_1
+tile_0 cupboard_2
+orangutan_0 tile_0
+orangutan_0 tile_1

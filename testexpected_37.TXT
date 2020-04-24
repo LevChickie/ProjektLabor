@@ -1,0 +1,14 @@
+tile_0
+tile_1
+tile_2
+tile_3
+tile_0 tile_1
+tile_1 tile_2
+tile_2 tile_3
+orangutan_0 tile_0
+orangutan_1 tile_3
+panda_0 sleepy tile_1
+panda_1 sleepy tile_2
+orangutan_0 tile_1
+orangutan_1 tile_2
+orangutan_1 tile_2

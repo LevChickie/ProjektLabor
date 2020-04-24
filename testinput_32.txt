@@ -1,0 +1,6 @@
+addtile normal
+addtile exit tile_0
+addtile normal
+bindneighbours tile_2 exit_1
+addorangutan tile_2
+moveorangutan orangutan_0 exit_1

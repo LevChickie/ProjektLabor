@@ -1,0 +1,6 @@
+addtile normal
+addtile normal
+addtile cupboard tile_1
+bindneighbours tile_0 cupboard_2
+addpanda tile_0 sleepy
+moverandompandas panda_0

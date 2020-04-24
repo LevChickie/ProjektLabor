@@ -1,0 +1,10 @@
+tile_0
+weaktile_1 1
+tile_0 weaktile_1
+panda_0 jumpy weaktile_1
+schokomachine_0 tile_0
+panda_0 jumpy weaktile_1
+weaktile_1 1
+react panda_0 jumpy weaktile_1
+weaktile_1 0
+panda_0 jumpy weaktile_1

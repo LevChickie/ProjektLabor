@@ -1,0 +1,13 @@
+tile_0
+tile_1
+weaktile_2 3
+tile_0 weaktile_2
+tile_1 weaktile_2
+orangutan_0 weaktile_2
+panda_0 jumpy tile_0
+schokomachine_0 tile_1
+orangutan_0 tile_0
+panda_0 jumpy weaktile_2 orangutan_0
+weaktile_2 1
+react panda_0 jumpy weaktile_2
+weaktile_2 0

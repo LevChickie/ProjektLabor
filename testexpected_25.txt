@@ -1,0 +1,6 @@
+tile_0
+tile_1
+tile_0 tile_1
+orangutan_0 tile_0
+gamemachine_0 tile_1
+orangutan_0 tile_0

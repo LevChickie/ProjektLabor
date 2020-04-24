@@ -1,0 +1,9 @@
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+addorangutan tile_0
+addpanda tile_1 sleepy
+moveorangutan orangutan_0 tile_1
+state panda_0
+leavepandas orangutan_0
+state panda_0

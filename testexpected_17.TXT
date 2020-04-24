@@ -1,0 +1,12 @@
+tile_0
+tile_1
+tile_2
+tile_0 tile_1
+tile_0 tile_2
+orangutan_0 tile_0
+panda_0 skared tile_2
+gamemachine_0 tile_1
+orangutan_0 tile_2
+panda_0 skared tile_0 orangutan_0
+react panda_0 skared tile_2
+panda_0 skared tile_2

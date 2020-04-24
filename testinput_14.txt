@@ -1,0 +1,11 @@
+addtile normal
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+bindneighbours tile_0 tile_2
+addorangutan tile_0
+addpanda tile_1 sleepy
+addobject tile_2 armchair
+moveorangutan orangutan_0 tile_1
+signal armchair_0
+state panda_0

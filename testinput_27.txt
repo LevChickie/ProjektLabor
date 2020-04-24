@@ -1,0 +1,15 @@
+addtile normal
+addtile normal
+addtile normal
+addtile cupboard tile_2
+addtile normal
+bindneighbours tile_0 tile_1
+bindneighbours tile_1 cupboard_3
+bindneighbours tile_2 tile_4
+addorangutan tile_0
+addpanda tile_1 sleepy
+moveorangutan orangutan_0 tile_1
+moveorangutan orangutan_0 cupboard_3
+state panda_0
+moveorangutan orangutan_0 tile_4
+state panda_0

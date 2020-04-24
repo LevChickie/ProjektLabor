@@ -1,0 +1,7 @@
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+addpanda tile_0 sleepy
+addobject tile_1 armchair
+signal armchair_0
+state panda_0

@@ -1,0 +1,6 @@
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+addorangutan tile_0
+addobject tile_1 gamemachine
+moveorangutan orangutan_0 tile_1

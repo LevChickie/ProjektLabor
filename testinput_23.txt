@@ -1,0 +1,5 @@
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+addorangutan tile_0
+moveorangutan orangutan_0 tile_1

@@ -1,0 +1,6 @@
+addtile normal
+addtile normal
+addtile exit tile_1
+bindneighbours tile_0 exit_2
+addpanda tile_0 sleepy
+moverandompandas panda_0

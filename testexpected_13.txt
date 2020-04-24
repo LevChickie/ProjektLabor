@@ -1,0 +1,7 @@
+tile_0
+tile_1
+tile_0 tile_1
+panda_0 jumpy tile_0
+armchair_0 tile_1
+no reaction
+panda_0 jumpy tile_0

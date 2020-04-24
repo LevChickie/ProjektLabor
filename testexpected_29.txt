@@ -1,0 +1,7 @@
+tile_0
+weaktile_1 20
+tile_0 weaktile_1
+orangutan_0 tile_0
+weaktile_1 20
+orangutan_0 weaktile_1
+weaktile_1 19

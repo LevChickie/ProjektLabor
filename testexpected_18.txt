@@ -1,0 +1,9 @@
+weaktile_0 20
+tile_1
+weaktile_0 tile_1
+panda_0 sleepy weaktile_0
+schokomachine_0 tile_1
+weaktile_0 20
+no reaction
+panda_0 sleepy weaktile_0
+weaktile_0 20

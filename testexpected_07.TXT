@@ -1,0 +1,6 @@
+tile_0
+tile_1
+cupboard_2 tile_1
+tile_0 cupboard_2
+panda_0 sleepy tile_0
+panda_0 sleepy tile_1

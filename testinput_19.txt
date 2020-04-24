@@ -1,0 +1,9 @@
+addtile weak 20
+addtile normal
+bindneighbours weaktile_0 tile_1
+addpanda weaktile_0 jumpy
+addobject tile_1 schokomachine
+state weaktile_0
+signal schokomachine_0
+state panda_0
+state weaktile_0

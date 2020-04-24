@@ -1,0 +1,5 @@
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+addpanda tile_0 sleepy
+moverandompandas panda_0

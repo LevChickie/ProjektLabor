@@ -1,0 +1,7 @@
+addtile normal
+addtile weak 1
+bindneighbours tile_0 weaktile_1
+addpanda tile_0 sleepy
+state weaktile_1
+moverandompandas panda_0
+state weaktile_1

@@ -1,0 +1,8 @@
+addtile normal
+addtile normal
+addtile normal
+bindneighbours tile_0 tile_1
+bindneighbours tile_0 tile_2
+addpanda tile_0 sleepy
+addobject tile_1 gamemachine
+moverandompandas panda_0
